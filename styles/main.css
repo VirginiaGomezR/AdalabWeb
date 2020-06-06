@@ -58,6 +58,10 @@ html {
   display: inline-block;
 }
 
+.menu ul {
+  padding: 0;
+}
+
 /*MAIN*/
 
 .main {
